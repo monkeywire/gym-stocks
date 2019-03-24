@@ -120,5 +120,5 @@ class StocksEnv(gym.Env):
     def _render(self, mode='human', close=False):
         pass
 
-	def _seed(self, seed)
+	def _seed(self, seed):
 		pass
